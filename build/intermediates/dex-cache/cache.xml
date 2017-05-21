@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aloyzas\Desktop\Android\MedicineReminder\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Aloyzas\Desktop\Android\MedicineReminder\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_26abc5af7a2db30e69b07af4125b37bba868a21e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aloyzas\Desktop\Android\MedicineReminder\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Aloyzas\Desktop\Android\MedicineReminder\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_b71bba139160acf80c9778fad155229a9ce64005.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aloyzas\Desktop\Android\MedicineReminder\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Aloyzas\Desktop\Android\MedicineReminder\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_7537cd4764f6cea903bae2d3f6f7f632f0373495.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aloyzas\Desktop\Android\MedicineReminder\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Aloyzas\Desktop\Android\MedicineReminder\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_d0dd5f69c49643eda46f5c162076ddbd06dd9308.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aloyzas\Desktop\Android\MedicineReminder\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\Aloyzas\Desktop\Android\MedicineReminder\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_a1d316366cda5cf7f20db19622b7061237243897.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aloyzas\Desktop\Android\MedicineReminder\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Aloyzas\Desktop\Android\MedicineReminder\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_1a57faad746382c1ecc9173fc73e84041387d1df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aloyzas\Desktop\Android\MedicineReminder\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Aloyzas\Desktop\Android\MedicineReminder\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_852d4866cf68a5643c1778e9dd438f85f139d3c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aloyzas\Desktop\Android\MedicineReminder\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Aloyzas\Desktop\Android\MedicineReminder\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_b8a2b8ddbbd49787fa2ca9471d9cda5a48ed3b25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aloyzas\Desktop\Android\MedicineReminder\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Aloyzas\Desktop\Android\MedicineReminder\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_bc45ba2f60b10e065a5259349e5eab09372a3b37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aloyzas\Desktop\Android\MedicineReminder\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Aloyzas\Desktop\Android\MedicineReminder\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_e42ff55eee68362470144e8d0bcfdcd6a568ecd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aloyzas\Desktop\Android\MedicineReminder\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Aloyzas\Desktop\Android\MedicineReminder\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_b084646f17b272472dd506215fd5090cad32540c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aloyzas\Desktop\Android\MedicineReminder\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Aloyzas\Desktop\Android\MedicineReminder\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_1cb0260a74288b619d25af7b9ee25118b4b63482.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aloyzas\Desktop\Android\MedicineReminder\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Aloyzas\Desktop\Android\MedicineReminder\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_55e04e3cf1ce5c066d721005495b423b621313a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aloyzas\Desktop\Android\MedicineReminder\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Aloyzas\Desktop\Android\MedicineReminder\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_9c315f1db71df5a18778b115adfed64cd00dd003.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aloyzas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Aloyzas\Desktop\Android\MedicineReminder\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_485ec199c4cc9a5fc7f8ea1d82e6600f5ba87d73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aloyzas\Desktop\Android\MedicineReminder\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Aloyzas\Desktop\Android\MedicineReminder\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_95b701214610c292bdc7588da1be17ef2b01a6c5.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fragment_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/medicine_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible"/>
+
+    <TextView
+        android:id="@+id/empty_medicines_view"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:text="@string/no_medicines"
+        android:visibility="gone"/>
+
+    <ImageButton
+        android:id="@+id/new_medicines_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_new_medicine"
+        android:contentDescription="@string/new_medicine"
+        android:background="@android:color/transparent"
+        android:visibility="gone"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"/>
+</FrameLayout>

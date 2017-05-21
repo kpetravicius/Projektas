@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MedicineReminder</string>
+    <string name="medicine_title_hint">Enter a title for the record</string>
+    <string name="medicine_title_label">Title</string>
+    <string name="medicine_details_label">Detail</string>
+    <string name="medicine_taken_label">Taken</string>
+    <string name="date_picker_title">Date to take medicine:</string>
+    <string name="new_medicine">New record</string>
+    <string name="show_subtitle">Show subtitle</string>
+    <string name="hide_subtitle">Hide subtitle</string>
+    <string name="subtitle_format">%1$d records</string>
+    <string name="no_medicines">There are no records. Click the button below to add one</string>
+    <string name="delete_medicine">Delete record</string>
+    <string name="action_settings">Settings</string>
+    <string name="medicine_report_text">Send report</string>
+    <string name="contact_text">Choose contact</string>
+</resources>
